@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1001671664659",
+    "firebase_url": "https://sorogi-dwt-default-rtdb.firebaseio.com",
+    "project_id": "sorogi-dwt",
+    "storage_bucket": "sorogi-dwt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001671664659:android:73ced888da76cffd290be6",
+        "android_client_info": {
+          "package_name": "com.sorogihealth.sorogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001671664659-dqjciabeg7f41r6ghoet19vb5l8p20hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGsg9AsDG_rWTntR4ei0-e19wF00-ggGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001671664659-dqjciabeg7f41r6ghoet19vb5l8p20hd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001671664659-1d12p8nu4123jk1q4c20g81posla1tef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sorogi-dwt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
